@@ -29,7 +29,7 @@ I just enjoy slapping my face on the keyboard and finding out it built succesful
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Pawbot (The only Discord Bot you will ever need!)  
+- 🔭 I’m currently working on random fucking Minecraft Projects  
   
 
 - 🌱 I’m currently the lead software developer for the [Furrydelphia]("https://furrydelphia.org") Public Safety Department  
