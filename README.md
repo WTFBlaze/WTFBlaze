@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Blaze!  
   
 
-<a href="https://github.com/WTFBLaze" target="_blank">
+<a href="https://github.com/WTFBlaze" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/WTFBlazelol" target="_blank">
@@ -9,10 +9,10 @@
 </a>
 <a href="https://instagram.com/wtfblaze_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=WTFBlaze&&style=flat-square)  
+</a>
+<a href="https://github.com/WTFBLaze" target="_blank">
+<img src=https://komarev.com/ghpvc/?username=WTFBlaze&&style=flat-square />
+</a>
   
 
 
