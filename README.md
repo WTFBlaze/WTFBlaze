@@ -1,4 +1,4 @@
-## Hey 👋, I'm Blaze!  
+## Hey 👋, I'm Blaze! First Name is Connor.
   
 
 <a href="https://github.com/WTFBlaze" target="_blank">
@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I just enjoy slapping my face on the keyboard and finding out it built succesfully. I started off making Discord Bots then moved over to Internal Game Cheat developments and am now back to doing Discord Bots.
+I just enjoy slapping my face on the keyboard and finding out it built succesfully. I started off making Discord Bots then moved over to Internal Game Cheat developments and am now back to doing Discord Bots & other game developments such as Minecraft
 
 ☠️ *Blaze's Client: 2020 - 2022*  
   
