@@ -1,4 +1,4 @@
-## Hey 👋, I'm Blaze! First Name is Connor.
+## Hey 👋, I'm Connor but I go by Blaze!
   
 
 <a href="https://github.com/WTFBlaze" target="_blank">
@@ -29,7 +29,7 @@ I just enjoy slapping my face on the keyboard and finding out it built succesful
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on random fucking Minecraft Projects  
+- 🔭 I’m currently working on a new Security / QoL VRChat client that bypasses EAC
   
 
 - 🌱 I’m currently the lead software developer for the [Furrydelphia]("https://furrydelphia.org") Public Safety Department  
