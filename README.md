@@ -19,8 +19,6 @@
 
 ### Glad to see you here!  
 I just enjoy slapping my face on the keyboard and finding out it built succesfully. I started off making Discord Bots then moved over to Internal Game Cheat developments and am now back to doing Discord Bots & other game developments such as Minecraft
-
-☠️ *Blaze's Client: 2020 - 2022*  
   
 
 <br/>  
@@ -29,7 +27,7 @@ I just enjoy slapping my face on the keyboard and finding out it built succesful
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a new Security / QoL VRChat client that bypasses EAC
+- 🔭 I am currently not working on any big projects.
   
 
 - 🌱 I’m currently the lead software developer for the [Furrydelphia]("https://furrydelphia.org") Public Safety Department  
