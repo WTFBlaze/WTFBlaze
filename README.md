@@ -27,7 +27,7 @@ I just enjoy slapping my face on the keyboard and finding out it built succesful
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I am currently not working on any big projects.
+- 🔭 I am currently working on a Minecraft PVP Client called Comet Client <3
   
 
 - 🌱 I’m currently the lead software developer for the [Furrydelphia]("https://furrydelphia.org") Public Safety Department  
