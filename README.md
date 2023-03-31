@@ -85,11 +85,11 @@ I just enjoy slapping my face on the keyboard and finding out it built succesful
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=WTFBlaze&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=WTFBlaze&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WTFBlaze&hide_border=true&count_private=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=wtfblaze&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true&hide_border=true&theme=algolia" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
