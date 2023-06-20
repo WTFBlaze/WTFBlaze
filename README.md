@@ -39,10 +39,9 @@ I just enjoy slapping my face on the keyboard and finding out it built succesful
 - ⚡ Fun fact: I refuse to use Light Mode on ANYTHING  
 
 
-</td><td valign="top" width="50%">
-
+</td>
+<td valign="top" width="50%">
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
 
@@ -93,13 +92,7 @@ I just enjoy slapping my face on the keyboard and finding out it built succesful
 
 </td></tr></table>  
 
-<br/>  
-
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=crgutbrod14&cover_image=true&theme=default)  
-
-<br/>  
-
-  
+<br/>   
 
 <br/>  
 
