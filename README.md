@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Large Language Models**
 
-- ⛔ Do not ask me about **VRChat. I'm retired from modding & playing that game.**
+- ⛔ Do not ask me about **VRChat. I'm not going to help you with anything.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
